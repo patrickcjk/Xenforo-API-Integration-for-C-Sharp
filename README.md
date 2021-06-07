@@ -1,6 +1,9 @@
 # Xenforo-API-Integration-for-C-Sharp
 Is a small API wrapper for Xenforo 2.2
 
+## Xenforo REST Api Documentation
+Official documentation [here](https://xenforo.com/community/pages/api-endpoints/).
+
 ## Example
 ```C#
 using System;
