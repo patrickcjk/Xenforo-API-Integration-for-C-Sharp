@@ -2,7 +2,7 @@
 Is a small API wrapper for Xenforo 2.2
 
 ## Example
-<code>
+```C#
 using System;
 using Xenforo.Api;
 
@@ -33,4 +33,4 @@ namespace Xenforo.Test
         }
     }
 }
-</code>
+```
